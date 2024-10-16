@@ -2,7 +2,7 @@
 
 ### Athens Tourist Guide VR Application
 
-This project is part of my dissertation with topic **Educational utilization of VR headsets** The **Athens Tourist Guide** VR application provides users with an immersive experience of exploring the city’s historical landmarks while receiving detailed information from a virtual assistant. The assistant is programmed to answer a **set of predefined questions** related to various landmarks and tourist attractions in Athens. These predefined questions trigger specific answers, ensuring accurate and focused responses.
+This project is part of my dissertation with topic **Educational utilization of VR headsets**. The **Athens Tourist Guide** VR application provides users with an immersive experience of exploring the city’s historical landmarks while receiving detailed information from a virtual assistant. The assistant is programmed to answer a **set of predefined questions** related to various landmarks and tourist attractions in Athens. These predefined questions trigger specific answers, ensuring accurate and focused responses.
 
 #### Key Features:
 - **Predefined Answers for Common Questions**: The virtual assistant is equipped with predefined answers to a set of frequently asked questions about the landmarks, offering quick and consistent information.
