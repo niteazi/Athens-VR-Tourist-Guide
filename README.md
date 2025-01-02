@@ -1,5 +1,7 @@
 ![image](https://github.com/user-attachments/assets/5b7af136-9e93-4b7a-b7ca-5015a055164d)
 
+Video demonstration: https://drive.google.com/file/d/1ywggMXEOdq5JnrYVKHoI4DEhWfw0ieHL/view?usp=drivesdk
+
 ### Athens Tourist Guide VR Application
 
 This project is part of my dissertation with topic **Educational utilization of VR headsets**. The **Athens Tourist Guide** VR application provides users with an immersive experience of exploring the city’s historical landmarks while receiving detailed information from a virtual assistant. The assistant is programmed to answer a **set of predefined questions** related to various landmarks and tourist attractions in Athens. These predefined questions trigger specific answers, ensuring accurate and focused responses. If a question made by the user is not within the set of predifined questions then it directs the question to the OpenAI API to be answered by ChatGPT.
